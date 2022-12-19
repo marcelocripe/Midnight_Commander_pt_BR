@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Heitor Adão Júnior <heitoradao@gmail.com>, 2017
+# marcelo cripe <marcelocripe@gmail.com>, 2022
+# Rafael Fontenelle <rffontenelle@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: Midnight Commander\n"
+"POT-Creation-Date: 2013-11-29 16:43+0300\n"
+"PO-Revision-Date: 2011-10-13 09:27+0000\n"
+"Last-Translator: marcelo cripe <marcelocripe@gmail.com>, 2022\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/mc/mc/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:2
+msgid "Hint: Use C-x t to copy tagged file names to the command line."
+msgstr "Dica: Pressione simultaneamente as teclas Ctrl+X, em seguida, pressione a tecla T para copiar o nome dos arquivos marcados para a linha de comando."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:4
+msgid "Hint: Use C-x p to copy the current pathname to the command line."
+msgstr "Dica: Pressione simultaneamente as teclas Ctrl+X, em seguida, pressione a tecla P para copiar o nome do caminho atual para a linha de comando."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:6
+msgid ""
+"Hint: Completion: use M-Tab (or Esc+Tab).  Type it twice to get a list."
+msgstr "Dica: Para concluir: Pressione simultaneamente as teclas M+Tab (ou Esc+Tab). Pressione duas vezes para obter uma lista."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:8
+msgid "Hint: Use M-p and M-n to access the command history."
+msgstr "Dica: Pressione simultaneamente as teclas M+P e M+N para acessar o histórico de comandos."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:10
+msgid "Hint: Need to quote a character? Use Control-q and the character."
+msgstr "Dica: Para inserir um caractere especial, pressione simultaneamente as teclas Crtl+Q e o caractere."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:12
+msgid ""
+"Hint: Tired of these messages? Turn them off from the Options/Layout menu."
+msgstr "Dica: Para não exibir as mensagens das dicas de ferramentas, desative-as no menu Opções, Leiaute."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:14
+msgid ""
+"Hint: Selecting directories: add a slash to the end of the matching pattern."
+msgstr "Dica: Selecionando diretórios: Adicione uma barra ao final do padrão correspondente."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:16
+msgid ""
+"Hint: If your terminal lacks functions keys, use the ESC+number sequence."
+msgstr "Dica: Se o seu terminal não for compatível com as teclas de função, utilize a sequência com ESC+Número."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:18
+msgid ""
+"Hint: The homepage of GNU Midnight Commander: http://www.midnight-"
+"commander.org/"
+msgstr "Dica: A página eletrônica do GNU Midnight Commander: http://www.midnight-commander.org/."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:20
+msgid "Hint: Please send any bug reports to mc-devel@gnome.org"
+msgstr "Dica: Por favor, envie quaisquer relatórios de falhas ou erros para mc-devel@gnome.org."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:22
+msgid "Hint: Tab changes your current panel."
+msgstr "Dica: A tecla Tab altera seu painel atual."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:24
+msgid "Hint: VFS coolness: tap enter on a tar file to examine its contents."
+msgstr "Dica: Coisas legais do VFS: Pressione a tecla Enter em um arquivo com a extensão .tar para examinar o seu conteúdo."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:26
+msgid "Hint: We also have a nice manual page."
+msgstr "Dica: Nós também temos uma ótima página com o manual do Midnight Commander."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:28
+msgid ""
+"Hint: Do you want lynx-style navigation? Set it in the Configuration dialog."
+msgstr "Dica: Para navegar no estilo do navegador de internet por modo texto Lynx, defina esta opção na caixa de diálogo das Configurações."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:30
+msgid "Hint: % macros work even on the command line."
+msgstr "Dica: Os macros % funcionam mesmo na linha de comando."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:32
+msgid ""
+"Hint: M-! will allow you to execute programs and see the output in the "
+"viewer."
+msgstr "Dica: Pressione simultaneamente as teclas M+! para executar os programas aplicativos e exibir a saída no visualizador."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:34
+msgid ""
+"Hint: The file listing format can be customized; do \"man mc\" for details."
+msgstr "Dica: O formato da listagem de arquivos pode ser personalizada; execute o comando \"man mc\" para obter mais informações."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:36
+msgid "Hint: %D/%T expands to the tagged files in the opposite directory."
+msgstr "Dica: %D/%T expande para os arquivos marcados no diretório oposto."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:38
+msgid ""
+"Hint: Want your plain shell? Press C-o, and get back to MC with C-o again."
+msgstr "Dica: Para ter o Shell básico, pressione simultaneamente as teclas Ctrl+O e volte novamente para o Midnight Commander com as teclas Ctrl+O."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:40
+msgid ""
+"Hint: Setting the CDPATH variable can save you keystrokes in cd commands."
+msgstr "Dica: Ao definir a variável CDPATH, você economizará digitações dos comandos cd."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:42
+msgid ""
+"Hint: If you want to see your .* files, say so in the Configuration dialog."
+msgstr "Dica: Para exibir os seus arquivos .*, defina esta opção na caixa de diálogo das Configurações."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:44
+msgid ""
+"Hint: Want to see your *~ backup files? Set it in the Configuration dialog."
+msgstr "Dica: Para exibir os seus arquivos de cópia de segurança (backup) *~, defina esta opção na caixa de diálogo nas Configurações."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:46
+msgid ""
+"Hint: Completion works on all input lines in all dialogs. Just press M-Tab."
+msgstr "Dica: A conclusão funciona em todas as linhas de entrada em todas as caixas de diálogos, pressione simultaneamente as teclas M+Tab."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:48
+msgid "Hint: On slow terminals the -s flag may help."
+msgstr "Dica: Em emuladores de terminais lentos, a opção -s pode ajudar."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:50
+msgid ""
+"Hint: Find File: you can work on the files found using the Panelize button."
+msgstr "Dica: Encontrar um Arquivo: você pode trabalhar em arquivos encontrados utilizando o botão de Painelização."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:52
+msgid "Hint: Want to do complex searches? Use the External Panelize command."
+msgstr "Dica: Para fazer pesquisas complexas, pressione o comando de Painelização Externo."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:54
+msgid ""
+"Hint: To change directory halfway through typing a command, use M-c (quick "
+"cd)."
+msgstr "Dica: Para alterar o diretório por meio de um comando, pressione simultaneamente as teclas M+C (equivale ao preenchimento rápido do comando cd)."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:56
+msgid ""
+"Note: Shell commands will not work when you are on a non-local file system."
+msgstr "Observação: Os comandos do Shell não vão funcionar quando você estiver em um sistema de arquivos que não seja local."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:58
+msgid "Hint: Bring text back from the dead with C-y."
+msgstr "Dica: Para recuperar o texto de volta, pressione simultaneamente as teclas Ctrl-Y."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:60
+msgid "Hint: Are some of your keys not working? Look at Options/Learn keys."
+msgstr "Dica: Se algumas das suas teclas não estão funcionando, verifique no menu Opções, Aprender as Teclas."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:62
+msgid "Hint: To look at the output of a command in the viewer, use M-!"
+msgstr "Dica: Para exibir a saída de um comando no visualizador, pressione simultaneamente as teclas M-!."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:64
+msgid "Hint: F13 (or Shift-F3) invokes the viewer in raw mode."
+msgstr "Dica: Pressione a teclas F13 (ou Shift+F3) para invocar o visualizador no modo bruto."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:66
+msgid ""
+"Hint: You may specify the editor for F4 with the shell variable EDITOR."
+msgstr "Dica: Para especificar o editor, pressione com a tecla F4 com a variável EDITOR do Shell."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:68
+msgid ""
+"Hint: You may specify the external viewer with the shell vars VIEWER or "
+"PAGER."
+msgstr "Dica: Para especificar o visualizador externo, utilize as variáveis VIEWER ou PAGER do Shell."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:70
+msgid ""
+"Hint: You can disable all requests for confirmation in Options/Confirmation."
+msgstr "Dica: Para desativar todas as solicitações de confirmação, defina esta opção no menu Opções, Confirmações."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:72
+msgid "Hint: Leap to frequently used directories in a single bound with C-\\."
+msgstr "Dica: Para pular para os diretórios utilizados com mais frequência, pressione simultaneamente as teclas C+\\."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:74
+msgid ""
+"Hint: You can do anonymous FTP with mc by typing 'cd ftp://machine.edu'"
+msgstr "Dica: Para utilizar o FTP anonimamente com o Midnight Commander, insira o endereço 'cd ftp://maquina.edu'."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:76
+msgid ""
+"Hint: FTP is built in the Midnight Commander, check the File/FTP link menu."
+msgstr "Dica: O FTP está embutido no Midnight Commander, verifique o menu Arquivo, FTP."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:78
+msgid "Hint: M-t changes quickly the listing mode."
+msgstr "Dica: Para alterar rapidamente para o modo de listagem, pressione simultaneamente as teclas M+T."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:80
+msgid ""
+"Hint: You can specify the username when doing ftps: 'cd "
+"ftp://user@machine.edu'"
+msgstr "Dica: Para especificar o nome de usuário quando for utilizar o ftps: 'cd ftp://user@machine.edu'."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:82
+msgid "Hint: You can browse RPM files by tapping enter on top of an rpm file."
+msgstr "Dica: Para acessar os arquivos com a extensão .RPM, pressione a tecla Enter após selecionar um arquivo .rpm."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:84
+msgid "Hint: To mark directories on the select dialog box, append a slash."
+msgstr "Dica: Para marcar diretórios na caixa de diálogo selecionada,  adicione ao final uma barra."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:86
+msgid "Hint: To use the mouse cut and paste may require holding the shift key"
+msgstr "Dica: Para utilizar os comandos \"recortar\" e \"colar\" com o cursor, pode ser necessário segurar a tecla Shift."
+
+#. type: Plain text
+#: /home/slavaz/work/mc-devel/git/doc/hints/mc.hint:88
+msgid "Hint: Key frequently visited ftp sites in the hotlist: type C-\\."
+msgstr "Dica: Para definir a tecla de atalho para os endereços de FTP que são visitados com mais frequência no hotlist, pressione simultaneamente as teclas C+\\."
